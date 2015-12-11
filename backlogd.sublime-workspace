@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"MAIL",
+				"MAIL_PASSWORD"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dan/Projects/backlogd/src/templates/forms.html",
+		"/home/dan/Projects/backlogd/src/templates/home.html",
+		"/home/dan/Projects/backlogd/src/newsletter/forms.py",
+		"/home/dan/Projects/backlogd/src/newsletter/admin.py",
+		"/home/dan/Projects/backlogd/src/newsletter/models.py",
+		"/home/dan/Projects/backlogd/src/backlogd/settings.py",
+		"/home/dan/Projects/backlogd/src/newsletter/views.py",
+		"/home/dan/Projects/backlogd/src/backlogd/urls.py",
+		"/home/dan/Projects/backlogd/src/static_in_pro/our_static/img/example.txt",
+		"/home/dan/Projects/backlogd/linux_project/linux_project/settings.py",
+		"/home/dan/Projects/backlogd/src/newsletter/templates/home.html",
+		"/home/dan/Projects/project-backlog/app/__init__.py",
+		"/home/dan/Projects/project-backlog/app/views.py",
+		"/home/dan/Projects/project-backlog/run.py",
+		"/home/dan/Projects/project-backlog/app/templates/index.html",
+		"/home/dan/Projects/tutorials/microblog/app/templates/post.html",
+		"/home/dan/Projects/tutorials/microblog/app/templates/user.html",
+		"/home/dan/Projects/tutorials/microblog/app/__init__.py",
+		"/home/dan/Projects/tutorials/microblog/app/models.py",
+		"/home/dan/Projects/tutorials/microblog/db_repository/manage.py",
+		"/home/dan/Projects/tutorials/microblog/app/momentjs.py",
+		"/home/dan/Projects/tutorials/microblog/app/templates/base.html",
+		"/home/dan/Projects/tutorials/microblog/app/templates/search_results.html",
+		"/home/dan/Projects/tutorials/microblog/babel.cfg",
+		"/home/dan/Projects/tutorials/microblog/app/views.py",
+		"/home/dan/Projects/tutorials/microblog/app/forms.py",
+		"/home/dan/Projects/tutorials/microblog/app/templates/follower_email.txt",
+		"/home/dan/Projects/tutorials/microblog/app/templates/follower_email.html",
+		"/home/dan/Projects/tutorials/microblog/app/decorators.py",
+		"/home/dan/Projects/tutorials/microblog/app/emails.py",
+		"/home/dan/Projects/tutorials/microblog/config.py",
+		"/home/dan/Projects/tutorials/microblog/run.py",
+		"/home/dan/Projects/tutorials/microblog/db_repository/__init__.py",
+		"/home/dan/Projects/tutorials/microblog/db_migrate.py",
+		"/home/dan/Projects/tutorials/microblog/flask/bin/pip",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/flipflop.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/speaklater.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/flask_whooshalchemy.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/decorator.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/six.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/flask_mail.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/flask_openid.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/flask_login.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/itsdangerous.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/easy_install.py",
+		"/home/dan/Projects/tutorials/microblog/flask/lib/python3.4/site-packages/pkg_resources.py",
+		"/home/dan/Projects/tutorials/microblog/__pycache__/config.cpython-34.pyc",
+		"/home/dan/Projects/tutorials/microblog/config.pyc",
+		"/home/dan/Projects/tutorials/microblog/db_repository/migrate.cfg",
+		"/home/dan/Projects/tutorials/microblog/db_repository/README",
+		"/home/dan/Projects/tutorials/microblog/app/__init__.pyc",
+		"/home/dan/Projects/tutorials/microblog/db_create.py",
+		"/home/dan/Projects/tutorials/microblog/db_upgrade.py",
+		"/home/dan/Projects/tutorials/microblog/runp.py",
+		"/home/dan/Projects/tutorials/microblog/db_downgrade.py",
+		"/home/dan/Projects/tutorials/microblog/tests.py",
+		"/home/dan/Projects/tutorials/microblog/app/templates/index.html",
+		"/home/dan/Projects/microblog/app/templates/post.html",
+		"/home/dan/Projects/microblog/app/templates/user.html",
+		"/home/dan/Projects/microblog/app/templates/base.html",
+		"/home/dan/Projects/microblog/app/templates/login.html",
+		"/home/dan/Projects/microblog/app/templates/index.html",
+		"/home/dan/Projects/microblog/config.py",
+		"/home/dan/Projects/microblog/db_migrate.py",
+		"/home/dan/Projects/microblog/db_create.py",
+		"/home/dan/Projects/microblog/db_downgrade.py",
+		"/home/dan/Projects/microblog/db_upgrade.py",
+		"/home/dan/Projects/microblog/app/models.py",
+		"/home/dan/Projects/microblog/run.py",
+		"/home/dan/Projects/microblog/app/views.py",
+		"/home/dan/Projects/microblog/app/templates/edit.html",
+		"/home/dan/Projects/microblog/tests.py",
+		"/home/dan/Projects/microblog/app/forms.py",
+		"/home/dan/Projects/microblog/app/__init__.py",
+		"/home/dan/Projects/microblog/app/templates/500.html",
+		"/home/dan/Projects/microblog/app/templates/404.html",
+		"/home/dan/Projects/microblog/runp.py",
+		"/home/dan/Projects/microblog/app/run.py",
+		"/home/dan/Projects/website-redux/css/style.css",
+		"/home/dan/Projects/website-redux/index.html",
+		"/home/dan/Projects/Website 2.0/js/script.js",
+		"/home/dan/Projects/Website 2.0/css/style.css",
+		"/home/dan/Projects/Website 2.0/index.html",
+		"/home/dan/nrg.php",
+		"/home/dan/Projects/Sublime Projects/mywebsite.sublime-workspace",
+		"/home/dan/nrg.js",
+		"/home/dan/.config/sublime-text-2/Packages/User/php.sublime-build",
+		"/home/dan/Projects/Website/index.php",
+		"/home/dan/Projects/Website/index.html",
+		"/home/dan/Projects/Website/main.css",
+		"/home/dan/Projects/BEST/libraries/OAuth.php",
+		"/home/dan/Projects/BEST/php/api_call.php",
+		"/home/dan/Projects/BEST/css/style.css",
+		"/home/dan/Projects/BEST/js/script.js",
+		"/home/dan/Projects/BEST/index.php",
+		"/home/dan/Projects/BEST/privacy.php",
+		"/home/dan/Projects/Website/mywebsite.sublime-project",
+		"/home/dan/Documents/LPTHW/ex11.py",
+		"/home/dan/Documents/LPTHW/ex10.py",
+		"/home/dan/Documents/LPTHW/ex9.py",
+		"/home/dan/Documents/LPTHW/ex8.py",
+		"/home/dan/Documents/LPTHW/ex7.py",
+		"/home/dan/Documents/LPTHW/ex6.py",
+		"/home/dan/Documents/LPTHW/ex5.py",
+		"/home/dan/Documents/LPTHW/ex4.py",
+		"/home/dan/Documents/LPTHW/ex3.py",
+		"/home/dan/Documents/LPTHW/ex2.py",
+		"/home/dan/Documents/LPTHW/ex1.py",
+		"/home/dan/kjj"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mail.se",
+			"micro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/dan/Projects/Sublime Projects/website2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 111.0,
+	"status_bar_visible": true
+}
